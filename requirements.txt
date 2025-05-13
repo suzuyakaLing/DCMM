@@ -33,10 +33,10 @@ matplotlib==3.7.2
 mdurl==0.1.2
 missingno==0.5.2
 narwhals==1.29.0
+streamlit==1.24.0
+plotly==5.13.0
+pandas==1.5.3
 numpy==1.24.3
-packaging==23.2
-pandas==2.2.3
-patsy==1.0.1
 Pillow==9.5.0
 plotly==6.0.1
 protobuf==4.25.6
